@@ -5,7 +5,7 @@ exclude = [
     "**/node_modules",
     "**/__pycache__",
 ]
-strict = ["gym/version.py", "gym/logger.py"]
+basic = ["gym/version.py", "gym/logger.py"]
 
 reportMissingImports = true
 reportMissingTypeStubs = false
